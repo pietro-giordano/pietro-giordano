@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pietro Giordano</h1>
 <h3 align="center">A passionate fullstack web-developer from Italy</h3>
 
-<img width="420" align="right" src="https://raw.githubusercontent.com/prtruz87/prtruz87/master/images/giphy.gif" alt="coding" /> </p>
+<img width="460" align="right" src="https://raw.githubusercontent.com/prtruz87/prtruz87/master/images/giphy.gif" alt="coding" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prtruz87&label=Profile%20views&color=0e75b6&style=flat" alt="prtruz87" /> </p>
 
