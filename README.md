@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contacts
-
+<a href=”https://www.linkedin.com/in/pietro-giordano-019067220/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 ## Technical Skills
 #### Languages
