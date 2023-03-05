@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/pietro.giordano.87/"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/facebook-tile.svg" alt="icon | LinkedIn" width="32px"/></a>
 <a href="https://www.linkedin.com/pietro-giordano-019067220/"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/linkedin-tile.svg" alt="icon | LinkedIn" width="32px"/></a>
 <a href="[https://www.instagram.com/pietro-giordano-019067220/](https://www.instagram.com/pietro.giordano.87/)"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/instagram-tile.svg" alt="icon | LinkedIn" width="32px"/></a>
-<a href="https://www.discord.com/GiorPi87#3484/"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/discord-tile.svg" alt="icon | LinkedIn" width="32px"/></a>
+<a href="https://www.discord.com/GiorPi87#3484/"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/discordapp-tile.svg" alt="icon | LinkedIn" width="32px"/></a>
 
 <br>
 
