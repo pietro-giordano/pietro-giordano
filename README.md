@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prtruz87&label=Profile%20views&color=0e75b6&style=flat" alt="prtruz87" /> </p>
 
+- 🔭 I’m currently working on **personal website**
+
 - 🌱 I’m currently learning **Boolean Careers Full-Stack Web Development**
 
 - 📫 How to reach me **giopi87@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
