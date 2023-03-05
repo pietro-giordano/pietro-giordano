@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtruz87&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prtruz87&layout=compact&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=prtruz87.prtruz87)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtruz87&theme=merko&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prtruz87&layout=compact&theme=merko&show_icons=true)
+<br>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=prtruz87.prtruz87)
