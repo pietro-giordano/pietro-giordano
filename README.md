@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prtruz87&label=Profile%20views&color=0e75b6&style=flat" alt="prtruz87" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prtruz87" alt="prtruz87" /></a> </p>
+- 🌱 I’m currently learning **Boolean Careers Full-Stack Web Development**
+
+- 📫 How to reach me **giopi87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
