@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Contacts
-<a href="https://www.linkedin.com/in/pietro-giordano-019067220/"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/linkedin-tile.svg" alt="icon | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/pietro-giordano-019067220/"><img align="left" src="https://raw.githubusercontent.com/prtruz87/prtruz87/main/images/linkedin-tile.svg" alt="icon | LinkedIn" width="32px"/></a>
+
+<br>
 
 ## Technical Skills
 #### - Languages
