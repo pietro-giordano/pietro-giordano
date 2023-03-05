@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Tecnical Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prtruz87&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prtruz87&layout=compact&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
