@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Boolean Careers Full-Stack Web Development**
 
-- 📫 How to reach me **giopi87@gmail.com**
+- 📫 How to reach me **pietro.giordano@zohomail.eu**
 
 - ⚡ Fun fact **I think I'm funny**
 
